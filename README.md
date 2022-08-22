@@ -2,7 +2,7 @@
 
 Vi skal lage en enkel krypteringsmaskin med web-grensesnitt. Maskinen skal være basert på skiftesifferkryptering. Det vil si at en melding krypteres med et forskjøvet alfabet. Se under;
 
-A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  Æ  Ø  Å
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  Æ  Ø  Å  
 F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  Æ  Ø  Å  A  B  C  D  E
 
 **Ukryptert melding:**		**Kryptert melding:**
