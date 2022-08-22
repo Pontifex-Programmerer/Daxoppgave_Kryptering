@@ -5,8 +5,9 @@ Vi skal lage en enkel krypteringsmaskin med web-grensesnitt. Maskinen skal være
 A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  Æ  Ø  Å  
 F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  Æ  Ø  Å  A  B  C  D  E
 
-**Ukryptert melding:**		**Kryptert melding:**
-  HEI GEIR					        MJN LJNW
+**Ukryptert melding:** HEI GEIR	
+
+**Kryptert melding:**  MJN LJNW
 
 
 ***Nettsiden deres må bestå av følgende elementer:***
