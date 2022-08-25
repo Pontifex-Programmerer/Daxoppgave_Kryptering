@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+
+.grid_wrapper {
+    background-color: antiquewhite;
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(6, 1fr);
+    grid-auto-rows: minmax(auto, auto);
+    margin: 0 auto;
+    width: 80%;
+}
+
+h1 {
+    grid-column: 1 / span 6;
+    text-align: center;
+    margin: 0;
+}
+.cipherinfo {
+    display: inline;
+    grid-column: 2 / span 2;
+    height: 100%;
+}
+
+.cipherinfo label {
+    color: blue;
+    vertical-align: text-bottom;
+}
+
+.cipherinfo input {
+    padding: 1px;
+    width: 5ch;
+}
+
+
+#encrypt {
+    height: 200px;
+    grid-column: 1 / span 3;
+    resize: false;
+}
+
+#encrypted {
+    height: 100%;
+    background-color: black;
+    color: rgb(119, 255, 0);
+    grid-column: 4 / span 6;
+    margin: 0;
+    text-align: center;
+}
+
+#clear {
+    grid-column: 3 / span 2;
+}
